@@ -25,6 +25,6 @@ escribehistoria('la app se desconecto de la red');
 
 });//document
 
-function esccribehistoria(accion) {
+function esccribehistoria(acciones) {
 $('#eHistoria').append('<li>'+accion+'</li>');
 }
